@@ -1,0 +1,6 @@
+jack=22	
+mary=18	
+bob=65	
+jack:22	
+mary:18	
+bob:65
